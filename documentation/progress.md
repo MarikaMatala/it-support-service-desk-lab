@@ -8,18 +8,16 @@ This is an independent learning project. Progress recorded here reflects practic
 
 | Metric | Current status |
 | --- | --- |
-| Exercises completed | 0 |
+| Exercises completed | 1 |
 | Exercises in progress | 0 |
-| Learning areas explored | 0 / 6 |
-| Last reviewed | Not yet reviewed |
-
-> Update these figures when exercise documentation is added or its status changes. Do not count planned exercises as completed.
+| Learning areas explored | 1 / 6 |
+| Last reviewed | 2026-11-12 |
 
 ## Progress by Learning Area
 
 | Learning area | Status | Exercises completed | Next focus |
 | --- | --- | ---: | --- |
-| Helpdesk and service desk fundamentals | Not started | 0 | Explore ticket handling, prioritisation and user support scenarios. |
+| Helpdesk and service desk fundamentals | Exploring | 1 | Practise ticket prioritisation, gathering information and user support scenarios. |
 | Networking | Not started | 0 | Practise basic connectivity and DNS troubleshooting. |
 | Active Directory and access management | Not started | 0 | Explore users, groups, authentication and permissions in a suitable lab. |
 | Troubleshooting | Not started | 0 | Practise a structured investigation and verification process. |
@@ -39,45 +37,28 @@ These statuses describe learning progress only. They are not certifications or c
 
 ## Exercise Log
 
-Add one row when an exercise is documented. Link each entry to its exercise report.
-
-| Date | Exercise | Learning area | Status | Time spent | Documentation |
-| --- | --- | --- | --- | --- | --- |
-| — | No exercises documented yet. | — | — | — | — |
-
-Suggested status values: **Planned**, **In progress**, **Completed**, **Needs more practice**.
+| Date | Exercise | Learning area | Status | Documentation |
+| --- | --- | --- | --- | --- |
+| 2026-11-11 | Legal Name Change: Account Update | Helpdesk / Account management | Completed | [Exercise 01](exercises/helpdesk/01-legal-name-change-account-update.md) |
 
 ## Skills Practised
 
-Record skills here after they have been practised in a documented exercise. Be specific and avoid listing skills based only on plans or theoretical reading.
-
-| Skill | Learning area | Evidence / exercise | Confidence or notes |
-| --- | --- | --- | --- |
-| No skills recorded yet. | — | — | Add evidence after completing an exercise. |
+| Skill | Learning area | Evidence / exercise |
+| --- | --- | --- |
+| Service desk workflow and ticket handling | Helpdesk | [Exercise 01](exercises/helpdesk/01-legal-name-change-account-update.md) |
+| User account administration and email alias handling | Helpdesk / Account management | [Exercise 01](exercises/helpdesk/01-legal-name-change-account-update.md) |
 
 ## Next Learning Priorities
 
-Use this section to choose the next practical steps. Update it as priorities change.
-
-1. Complete an introductory service desk or helpdesk scenario.
-2. Practise a basic troubleshooting workflow and document the tests performed.
-3. Explore networking fundamentals through practical diagnostic exercises.
-4. Add further priorities based on gaps discovered during completed exercises.
-
-## Reflection and Review Notes
-
-Use this section for short periodic reflections. Record the date and focus on concrete observations.
-
-| Review date | What has improved? | What needs more practice? | Next step |
-| --- | --- | --- | --- |
-| Not yet reviewed | — | — | Complete and document the first exercise. |
+1. Practise ticket prioritisation, gathering relevant information and deciding when to escalate a request.
+2. Complete another helpdesk scenario and document the troubleshooting or account-management process.
+3. Practise a basic troubleshooting workflow and document the tests performed.
+4. Explore networking fundamentals through practical diagnostic exercises.
 
 ## How I Keep This Page Accurate
 
-- Update the exercise log when an exercise report is added.
 - Count only completed and documented exercises as completed.
 - Record actual time spent; do not estimate or invent durations.
 - Link to the relevant exercise documentation whenever possible.
 - Update learning-area statuses based on evidence, not intention.
 - Keep simulated and personal-lab practice clearly distinguished from professional work experience.
-- Review this page periodically so it reflects the current state of the project.
