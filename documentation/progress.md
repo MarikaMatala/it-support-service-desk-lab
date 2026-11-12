@@ -8,10 +8,10 @@ This is an independent learning project. Progress recorded here reflects practic
 
 | Metric | Current status |
 | --- | --- |
-| Exercises completed | 0 |
+| Exercises completed | 1 |
 | Exercises in progress | 0 |
-| Learning areas explored | 0 / 6 |
-| Last reviewed | Not yet reviewed |
+| Learning areas explored | 1 / 6 |
+| Last reviewed | 2026-11-12 |
 
 > Update these figures when exercise documentation is added or its status changes. Do not count planned exercises as completed.
 
@@ -19,7 +19,7 @@ This is an independent learning project. Progress recorded here reflects practic
 
 | Learning area | Status | Exercises completed | Next focus |
 | --- | --- | ---: | --- |
-| Helpdesk and service desk fundamentals | Not started | 0 | Explore ticket handling, prioritisation and user support scenarios. |
+| Helpdesk and service desk fundamentals | Exploring | 1 | Practise ticket prioritisation, gathering information and user support scenarios. |
 | Networking | Not started | 0 | Practise basic connectivity and DNS troubleshooting. |
 | Active Directory and access management | Not started | 0 | Explore users, groups, authentication and permissions in a suitable lab. |
 | Troubleshooting | Not started | 0 | Practise a structured investigation and verification process. |
@@ -43,7 +43,7 @@ Add one row when an exercise is documented. Link each entry to its exercise repo
 
 | Date | Exercise | Learning area | Status | Time spent | Documentation |
 | --- | --- | --- | --- | --- | --- |
-| — | No exercises documented yet. | — | — | — | — |
+| 2026-11-11 | Legal Name Change: Account Update | Helpdesk / Account management | Completed | Not recorded | [Exercise 01](exercises/helpdesk/01-legal-name-change-account-update.md) |
 
 Suggested status values: **Planned**, **In progress**, **Completed**, **Needs more practice**.
 
@@ -53,16 +53,18 @@ Record skills here after they have been practised in a documented exercise. Be s
 
 | Skill | Learning area | Evidence / exercise | Confidence or notes |
 | --- | --- | --- | --- |
-| No skills recorded yet. | — | — | Add evidence after completing an exercise. |
+| Service desk workflow and ticket handling | Helpdesk | [Exercise 01](exercises/helpdesk/01-legal-name-change-account-update.md) | Practised in a simulator. |
+| User account administration and email alias handling | Helpdesk / Account management | [Exercise 01](exercises/helpdesk/01-legal-name-change-account-update.md) | Completed as a simulated account update. |
 
 ## Next Learning Priorities
 
 Use this section to choose the next practical steps. Update it as priorities change.
 
-1. Complete an introductory service desk or helpdesk scenario.
-2. Practise a basic troubleshooting workflow and document the tests performed.
-3. Explore networking fundamentals through practical diagnostic exercises.
-4. Add further priorities based on gaps discovered during completed exercises.
+1. Practise ticket prioritisation, gathering relevant information and deciding when to escalate a request.
+2. Complete another helpdesk scenario and document the troubleshooting or account-management process.
+3. Practise a basic troubleshooting workflow and document the tests performed.
+4. Explore networking fundamentals through practical diagnostic exercises.
+5. Add further priorities based on gaps discovered during completed exercises.
 
 ## Reflection and Review Notes
 
